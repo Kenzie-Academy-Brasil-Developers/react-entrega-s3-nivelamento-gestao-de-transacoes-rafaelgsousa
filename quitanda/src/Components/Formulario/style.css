@@ -1,0 +1,17 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    padding: 10px;
+    background-color: darkblue;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.formulario input{
+    margin: 5px;
+}
+.formulario button {
+    margin: 5px;
+    color: white;
+    background-color: black;
+}
